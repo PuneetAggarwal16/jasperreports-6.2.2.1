@@ -1,0 +1,6 @@
+The content of this jar is taken from maven repository at
+https://mvnrepository.com/artifact/net.sf.jasperreports/jasperreports/6.2.2
+
+There is no modification done at code level, but itext dependency has been removed from the pom file due to its license constraints.
+
+The updated version without itext dependency is working copy and can be used under LGPL license.
